@@ -18,4 +18,4 @@ After Updation of State using useState, useReducer, useContext hooks
 ![savings-tracker-1](https://user-images.githubusercontent.com/70085321/120535769-01414c00-c401-11eb-8270-7c4bba8ee7b3.png)
 
 
-Live Demo Link:   [savings-tracker](https://nostalgic-neumann-e1a442.netlify.app/)
+Live Demo Link:   [savings-tracker](https://savingstracker.netlify.app/)
